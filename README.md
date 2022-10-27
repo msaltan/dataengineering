@@ -27,10 +27,15 @@ https://www.stitchdata.com/resources/compare-on-premises-and-cloud-data-warehous
 https://greenplum.org/
 
 # bigdata platform
+
 cloudera
+
 mapr
+
 azure hdinsight
+
 databricks
+
 google dataproc
 
 # Opensource Data Lake
@@ -60,20 +65,33 @@ https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehou
 https://hevodata.com/learn/7-best-cdc-tools/
 
 debezium
+
 golden gate
+
 streamsets
 
 # ETL/ELT tools
+
 informatica
+
 apache nifi
+
 dbt
+
 apache airflow
+
 Talend
+
 FiveTran
+
 airbyte
+
 airflow
+
 Stitch
+
 Xplenty
+
 Matillion
 
 
