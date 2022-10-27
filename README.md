@@ -8,6 +8,8 @@ https://github.com/oleg-agapov/data-engineering-book
 
 https://github.com/Nunie123/data_engineering_on_gcp_book 
 
+# data lakehouse & data warehouse
+
 https://www.altexsoft.com/blog/data-lakehouse/
 
 https://www.sqlhammer.com/cloud-data-warehouse/
